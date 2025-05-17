@@ -42,8 +42,7 @@ Use this in another terminal or system dont close it
 ```bash
 dot -Tpng network_graph.dot -o network_graph.png
 ```
-LIke this below
-![Network Graph](network_graph.jpg)
+
 
 
 
